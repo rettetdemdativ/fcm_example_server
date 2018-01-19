@@ -4,6 +4,8 @@ This server was originally created for a talk at the Vienna Go Meetup. Additiona
 
 The implementation currently uses the [legacy HTTP API](https://firebase.google.com/docs/cloud-messaging/http-server-ref) and a permanent API key which can be acquired through the Firebase Console. 
 
+You can find the Android client implementation [here](https://github.com/calmandniceperson/FCMExampleApp).
+
 ## Acquiring the legacy API key
 1. Go to the [Firebase Console](https://console.firebase.google.com).
 2. Select your project (set one up if you haven't yet)
